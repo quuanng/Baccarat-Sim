@@ -1,0 +1,3 @@
+- run bac.m in matlab
+- graph will give insight
+- edit the nextMove() function to change the betting strategy
